@@ -18,9 +18,6 @@ hero:
       text: Members
       link: /members
 banners:
-  - linkUrl: "https://www.dutchcloudnativeday.nl"
-    imgSrc: "/assets/20261029_Dutch_Cloud_Native_Day_banner_wide.svg"
-    alt: "Dutch Cloud Native Day 2026"
   - linkUrl: "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/"
     imgSrc: "/assets/20270315_kubecon_barcelona_banner_wide.svg"
     alt: "Kubecon + CloudNativeCon 2027, Barcelona"
