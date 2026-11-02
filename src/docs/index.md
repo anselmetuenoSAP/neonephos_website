@@ -21,25 +21,28 @@ banners:
   - linkUrl: "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/"
     imgSrc: "/assets/20270315_kubecon_barcelona_banner_wide.svg"
     alt: "Kubecon + CloudNativeCon 2027, Barcelona"
-tilesHeading: Get involved with NeoNephos!
+tilesHeading: Choose your persona!
+tilesSubHeading: I am a...
 tiles:
-  - title: Members
-    subtitle: Are you building, researching or selling cloud native?
-    details: Join a neutral, collaboration with other cloud native enthusiasts.
-    linkText: Become a Member
+  - title: Contributor
+    subtitle: I like to contribute in any shape or form.
+    details: Contribute towards our projects or the foundation itself. 
+    mode: "contributor"
+    linkText: Contribute
+    linkUrl: /contributing
+
+  - title: Company
+    subtitle: I like to advance cloud native digital sovereignty.
+    details: Shape digital sovereingty together with our members.
+    mode: "member"
+    linkText: Become Member
     linkUrl: /join
 
-  - title: Contributors
-    subtitle: Interested in getting invovled?
-    details: Join our existing projects or propose a new one.
-    linkText: Start Contributing
-    linkUrl: /new_project
-
-  - title: End Users
-    subtitle: Using sovereign cloud native tech?
-    details: Shape the conversation and drive cross-company collaboration among digital sovereignty.
-    linkText: Stay Informed
-    linkUrl: https://lists.neonephos.org/g/main/subgroups
+  - title: Unsure
+    subtitle: I don't know how I fit in yet. But I'd like to know more.
+    details: Read up on our mission and what we stand for.
+    linkText: NeoNephos?
+    linkUrl: /goals
 
 features:
   - title: Open Reference Architecture

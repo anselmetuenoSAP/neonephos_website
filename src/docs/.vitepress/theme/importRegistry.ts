@@ -37,9 +37,10 @@ import NNFDescriptionThemeComponent from './components/NNFDescriptionThemeCompon
 import HostProjectThemeComponent from './components/HostProjectThemeComponent.vue'
 import PieChartThemeComponent from './components/PieChartThemeComponent.vue'
 import JoinNNFThemeComponent from './components/JoinNNFThemeComponent.vue'
+import LandingTilesMainThemeComponent from './components/LandingTilesMainThemeComponent.vue'
+import ContributorThemeComponent from './components/ContributorThemeComponent.vue'
 //import RSSThemeComponent from './components/RSSThemeComponent.vue'
 import LinuxHeader from './components/LinuxHeaderThemeComponent.vue'
-
 export const layoutMap = {
   CommitteeBoardThemeComponent,
   CommitteeThemeComponent,
@@ -80,5 +81,7 @@ export const layoutMap = {
   HostProjectThemeComponent,
   PieChartThemeComponent,
   JoinNNFThemeComponent,
+  LandingTilesMainThemeComponent,
+  ContributorThemeComponent,
   LinuxHeader
 }

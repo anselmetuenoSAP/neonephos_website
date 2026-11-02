@@ -86,6 +86,7 @@ export default defineConfig({
           { text: 'Events', link: '/events'},
           { text: 'Gardener Hackathons', link: 'https://gardener.cloud/community/hackathons/'},
           { text: 'Blog', link: '/blog'},
+          { text: 'How to Contribute?', link: '/contributing'},
           { text: 'Mailing Lists', link: 'https://lists.neonephos.org/g/main/subgroups' },
           { text: 'Artwork & Branding', link: '/branding_guidelines' },
           { text: 'Calendar', link: 'https://zoom-lfx.platform.linuxfoundation.org/meetings/neonephos-foundation?view=month' },

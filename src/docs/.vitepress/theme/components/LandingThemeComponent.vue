@@ -43,15 +43,13 @@ import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
     <img :src="withBase(banner.imgSrc)" :alt="banner.alt" /> 
   </a>
 
-  <section class="home-tiles__section">
-    <div class="container wrap">
-      <LandingTilesThemeComponent
-        :key="frontmatter.title"
-        :tiles="frontmatter.tiles"
-        :heading="frontmatter.tilesHeading"
-      />
-    </div>
-  </section>
+<!-- Dynamic Landing Tiles Main Section -->
+  <LandingTilesMainThemeComponent
+    :key="frontmatter.title"
+    :tiles="frontmatter.tiles"
+    :heading="frontmatter.tilesHeading"
+    :subheading="frontmatter.tilesSubHeading || frontmatter.tilesSubheading"
+  />
 
   <div>
     <section class="section-divider">
@@ -198,11 +196,6 @@ import VPHome from 'vitepress/dist/client/theme-default/components/VPHome.vue'
 
 .wp-block-button__link:hover {
   background-color: #007aff;
-}
-
-.home-tiles__section {
-  padding: 4rem 2rem;
-  background: var(--vp-c-bg);
 }
 
 @media screen and (max-width: 699px) {
