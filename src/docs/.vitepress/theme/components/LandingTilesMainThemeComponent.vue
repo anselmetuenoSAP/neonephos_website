@@ -180,7 +180,7 @@ const getCharList = (details: string | undefined, index: number) => {
 .tiles-rows-wrapper {
   display: flex;
   flex-direction: column;
-  gap: 1.25rem;
+  gap: 0.75rem; /* Reduced vertical gap between rows */
   width: 100%;
 }
 
@@ -197,6 +197,7 @@ const getCharList = (details: string | undefined, index: number) => {
   .tiles-grid {
     flex-direction: column;
     min-height: auto;
+    gap: 1.5rem; /* Larger gap between cards on mobile */
   }
 }
 
@@ -225,6 +226,7 @@ const getCharList = (details: string | undefined, index: number) => {
 @media (max-width: 768px) {
   .tile-card {
     max-width: 100%;
+    margin-bottom: 1rem; /* Extra breathing room (~1 br) after each card on mobile */
   }
 }
 
