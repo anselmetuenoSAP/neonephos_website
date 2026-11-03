@@ -25,14 +25,14 @@ tilesHeading: Choose your persona!
 tilesSubHeading: I am a...
 tiles:
   - title: Contributor
-    subtitle: I like to contribute in any shape or form.
+    subtitle: I'd like to contribute in any shape or form.
     details: Contribute towards our projects or the foundation itself. 
     mode: "contributor"
     linkText: Contribute
     linkUrl: /contributing
 
   - title: Company
-    subtitle: I like to advance cloud native digital sovereignty.
+    subtitle: I'd like to advance cloud native digital sovereignty.
     details: Shape digital sovereingty together with our members.
     mode: "member"
     linkText: Become Member
