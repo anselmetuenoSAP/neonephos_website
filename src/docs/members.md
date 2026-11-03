@@ -70,6 +70,9 @@ members:
       imgsrc: "https://lf-platform-documents-prod.s3.amazonaws.com/x_cellent_technologies_gmbh_1702942925809_0012M00002PbbTjQAJ.svg"
 
   associate:
+    - name: "Deutsche Bundesbank"
+      link: "https://bundesbank.de"
+      imgsrc: "https://lf-master-organization-logos-prod.s3.us-east-2.amazonaws.com/deutsche-bundesbank.svg"
     - name: "Fraunhofer ISST"
       link: "https://www.isst.fraunhofer.de"
       imgsrc: "https://www.isst.fraunhofer.de/content/dam/isst/images/Fraunhofer%20ISST-Logo_Internet.svg"
