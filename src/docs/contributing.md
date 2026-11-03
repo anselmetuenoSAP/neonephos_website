@@ -23,7 +23,7 @@ decisionTiles:
     linkUrl: /project_overview
 
   - title: Project Proposal Submitter
-    subtitle: I'd like to donate a project to NeoNephos.
+    subtitle: I'd like to donate a project.
     details: Learn how to propose your project to NeoNephos.
     mode: ""
     linkText: Host Project
