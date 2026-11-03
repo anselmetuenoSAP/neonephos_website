@@ -37,7 +37,7 @@ decisionTiles:
     linkUrl: https://linuxfoundation.zulipchat.com/#narrow/channel/525732-neonephos-discussion/topic/newsfeed/with/578880018
 
   - title: Be Ambassador
-    subtitle: I like to represent NeoNephos in outreach matters and more.
+    subtitle: I'd like to represent NeoNephos in outreach matters and more.
     details: NNF Ambassadors speak in our name and amplify our message.
     mode: ""
     linkText: Ambassador Program
