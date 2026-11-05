@@ -24,7 +24,7 @@ const ambassadorLink = isApplicationPeriod
 
 const ambassadorLabel = isApplicationPeriod
   ? "Start Your Journey Now"
-  : "Application Period Starts March"
+  : "Application Period Starts February"
 </script>
 
 <template>
