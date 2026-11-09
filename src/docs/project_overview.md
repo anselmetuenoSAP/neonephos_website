@@ -193,7 +193,7 @@ cards:
     classname: "thalamus"
     relationships: []
     tags: ["ai"]
-    logo: "https://raw.githubusercontent.com/neonephos/artwork/refs/heads/main/projects/thalamus/icon/color/thalamus.svg"
+    logo: "https://raw.githubusercontent.com/neonephos/artwork/refs/heads/main/projects/thalamus/primary/color/thalamus-primary-color.svg"
     details: "Thalamus is a Kubernetes-native platform for deploying and operating sovereign LLM inference across multiple infrastructures and hardware vendors. It supports pluggable serving backends, starting with llm-d and vLLM."
     link: "https://thalamus.io/"
     githubLink: "https://github.com/thalamus-ai"
