@@ -7,7 +7,6 @@ hero:
   name: "NNF Projects"
   subtitle: ""
   text: ""
-
 cards:
   - title: "Platform Mesh"
     classname: "platform-mesh"
