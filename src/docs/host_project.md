@@ -18,15 +18,17 @@ textBlock:
     - "Benefit from the NeoNephos ecosystem and its partners."
     - "Access to the vast Linux Foundation network and resources like LFX Insights or Project Control Center."
     - "Access to structured community governance policies and contributor charters."
-textBlockBottom:
-  header: "Ready to Join NNF?"
-  headerColor: "var(--vp-neonephos-blue)"
-  description: "Ready for the next step? Choose below:"
-  descriptionColor: "#6e6e6e"
-  backgroundColor: "#f9fafb"
-  items:
-    - "[Learn about the project proposal precess](/project_proposal)"
-    - "[Propose your project directly through GitHub](https://github.com/neonephos/projects)."
+
+tilesHeading: Ready to Join NNF?
+tiles:
+  - title: Steps to Donate Project
+    details: "Learn about the project proposal process."
+    linkText: Project Proposal Process
+    linkUrl: /project_proposal
+  - title: Donate Project Now
+    details: Propose your project for inclusion into NeoNephos here!
+    linkText: Propose Project
+    linkUrl: https://github.com/neonephos/projects
 
 diagram:
   - title: "Q: What makes your organization most likely to adopt an open source project?"

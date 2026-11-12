@@ -36,14 +36,6 @@ const lifecycleIntroText = `To open source a project is just one step of the way
         <!-- Bottom Text Block placed below the pie chart -->
         <TextBlockThemeComponent contentKey="textBlockBottom" />
 
-        <!-- Centered Propose Project Call-to-Action Button -->
-        <section class="propose-cta-section" v-if="frontmatter.proposeButton !== false">
-          <div class="section-inner propose-cta-container">
-            <a :href="withBase('/project_proposal')" class="propose-btn">
-              Propose project now
-            </a>
-          </div>
-        </section>
 
         <!-- Existing Project Cards Section -->
         <section class="lifecycle-section">
@@ -51,6 +43,17 @@ const lifecycleIntroText = `To open source a project is just one step of the way
             <ProjectCardThemeComponent />
           </div>
         </section>
+
+        <div class="neonephos-blue-section">
+        <div class="neonephos-blue-section-inner">
+          <LandingTilesThemeComponent
+            :key="frontmatter.title"
+            :titleColor="'white'"
+            :tiles="frontmatter.tiles"
+            :heading="frontmatter.tilesHeading"
+          />
+        </div>
+      </div>
 
       </template>
     </NeoNephosDefaultTheme04>
