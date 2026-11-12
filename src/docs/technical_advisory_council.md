@@ -8,8 +8,8 @@ hero:
   subtitle: "The Technical Advisory Council (TAC) is the technical advisory body of NeoNephos."
   description: "It establishes the technical oversight for the vision laid out by the Governing Board. The TAC currently consists of these members."
 members:
-  - name: "Martin Schüßler"
-    imgsrc: "https://avatars2.githubusercontent.com/u/1407812?v=4"
+  - name: "Andreas Riexinger"
+    imgsrc: "https://platform-logos-myprofile-api-prod.s3.us-east-2.amazonaws.com/ariexinger.png?v=1787212598361"
     role: "Schwarz Digits Cloud GmbH & Co. KG Representative"
     details:
     linkedin:
@@ -103,11 +103,6 @@ members:
     role: "Project Representative"
     details:
     linkedin:
-  - name: "Arno Uhlig"
-    imgsrc: "https://avatars.githubusercontent.com/u/14873188?v=4"
-    role: "Project Representative"
-    details: "Engineering Manager @ SAP Cloud Infrastructure"
-    linkedin: "https://www.linkedin.com/in/arno-uhlig/"
 tilesHeading: "Learn more!"
 tiles:
   - title: "Contact"
@@ -129,12 +124,12 @@ alternates:
     role: "Alternate T-Systems International GmbH Representative"
     details:
     linkedin:
-observers:
-  - name: "Andreas Riexinger"
-    imgsrc: "https://platform-logos-myprofile-api-prod.s3.us-east-2.amazonaws.com/ariexinger.png?v=1787212598361"
-    role: "Generic Observer"
+  - name: "Martin Schüßler"
+    imgsrc: "https://avatars2.githubusercontent.com/u/1407812?v=4"
+    role: "Alternate Schwarz Digits Cloud GmbH & Co. KG Representative"
     details:
     linkedin:
+observers:
   - name: "Artem Kovalov"
     imgsrc: "https://lfx-cdn-prod.s3.amazonaws.com/users/avatar/a.png"
     role: "Generic Observer"
