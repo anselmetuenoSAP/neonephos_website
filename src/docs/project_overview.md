@@ -102,7 +102,7 @@ cards:
     classname: "opencontrolplane"
     relationships: []
     tags: []
-    logo: "https://github.com/neonephos/artwork/blob/main/projects/opencontrolplane/primary/color/opencontrolplane-primary-color.svg"
+    logo: "https://raw.githubusercontent.com/neonephos/artwork/refs/heads/main/projects/opencontrolplane/primary/color/opencontrolplane-primary-color.svg"
     details: "The OpenControlPlane enables extensible Infrastructure- and Configuration-as-Data capabilities as a Service."
     link: "https://open-control-plane.io/"
     githubLink: "https://github.com/openmcp-project"
